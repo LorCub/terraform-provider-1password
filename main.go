@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/anasinnyk/terraform-provider-1password/onepassword"
+	"github.com/LorCub/terraform-provider-1password/onepassword"
 	"github.com/hashicorp/terraform/plugin"
 )
 
